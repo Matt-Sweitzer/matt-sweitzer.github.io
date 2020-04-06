@@ -320,7 +320,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 1510px;
+width: 1237px;
 
 }
 /******************
@@ -338,12 +338,12 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 1490px; 
-    max-width: 1490px; 
+    width: 1217px; 
+    max-width: 1217px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 1490px; 
-    max-width: 1490px; 
+    width: 1217px; 
+    max-width: 1217px; 
     
 }
 
